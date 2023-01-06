@@ -199,3 +199,6 @@ main{ max-width: 1140px;
     width: 100%;
     padding: 18px 7px;
 }
+textarea{
+    resize: none;
+}
